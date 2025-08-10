@@ -1,4 +1,7 @@
-![in8loop logo](./logo.png)
+<p align="left">
+  <img src="./logo.svg" alt="in8 logo" width="200">
+</p>
+
 ## in8
 **Innate innovation, infinite impact.**
 
