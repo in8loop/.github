@@ -2,7 +2,7 @@
   <img src="./logo.svg" alt="in8 logo" width="200">
 </p>
 
-## in8
+# in8
 **Innate innovation, infinite impact.**
 
 in8loop is where we design, build, and refine the software behind **in8.dev**.  
