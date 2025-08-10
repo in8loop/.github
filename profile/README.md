@@ -1,5 +1,5 @@
-# in8loop
-
+![in8loop logo](./logo.png)
+## in8
 **Innate innovation, infinite impact.**
 
 in8loop is where we design, build, and refine the software behind **in8.dev**.  
