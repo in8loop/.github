@@ -12,4 +12,4 @@ Here you’ll find our community guidelines, contribution standards, and shared 
 
 ## Connect
 - Website: [https://in8.dev](https://in8.dev)
-- GitHub: [https://github.com/in8-dev](https://github.com/in8loop)
+- GitHub: [https://github.com/in8loop](https://github.com/in8loop)
