@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="./logo-gradient.svg" alt="in8" width="200">
+  <img src="./logo-flat.svg" alt="in8" width="200">
 </p>
 
 # in8
